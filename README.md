@@ -15,4 +15,4 @@
   The calculator features a beautiful once super popular style called Frutiger Aero.
 
 - ⚡ **Fast**  
-  Aerostrix Browser is fast and optimized for performance.
+  The calculator is fast and optimized for performance.
