@@ -30,3 +30,30 @@
 *.exe
 *.out
 *.app
+
+# Ignore object files
+*.o
+
+# Ignore executable binaries
+myprogram
+*.exe
+
+# Ignore temporary files
+*~
+
+# Ignore core dumps
+core
+
+# Ignore build directories (if you use any)
+build/
+bin/
+
+# Ignore editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore other system files
+.DS_Store
+Thumbs.db
